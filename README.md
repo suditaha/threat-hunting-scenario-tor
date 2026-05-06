@@ -117,14 +117,14 @@ RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 
 ---
 
-## Chronological Event Timeline 
+# Chronological Event Timeline
 
-### 1. File Download - TOR Installer
+## 1. File Download / TOR-Related File Activity
 
-- **Timestamp:** `2024-11-08T22:14:48.6065231Z`
-- **Event:** The user "employee" downloaded a file named `tor-browser-windows-x86_64-portable-14.0.1.exe` to the Downloads folder.
+- **Timestamp:** `2026-04-24T21:28:59.5704809Z`
+- **Event:** The user `suditaha` downloaded a file named `tor-browser-windows-x86_64-portable-15.0.10.exe` to the Downloads folder on the device `onboarding`.
 - **Action:** File download detected.
-- **File Path:** `C:\Users\employee\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe`
+- **File Path:** `C:\Users\suditaha\Downloads\tor-browser-windows-x86_64-portable-15.0.10.exe`
 
 ### 2. Process Execution - TOR Browser Installation
 
