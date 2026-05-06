@@ -126,13 +126,13 @@ RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 - **Action:** File download detected.
 - **File Path:** `C:\Users\suditaha\Downloads\tor-browser-windows-x86_64-portable-15.0.10.exe`
 
-### 2. Process Execution - TOR Browser Installation
+## 2. Process Execution – TOR Browser Installation
 
-- **Timestamp:** `2024-11-08T22:16:47.4484567Z`
-- **Event:** The user "employee" executed the file `tor-browser-windows-x86_64-portable-14.0.1.exe` in silent mode, initiating a background installation of the TOR Browser.
+- **Timestamp:** `2026-04-24T21:37:24.6466049Z`
+- **Event:** The user `suditaha` executed the file `tor-browser-windows-x86_64-portable-15.0.10.exe` in silent mode, initiating a background installation of the TOR Browser.
 - **Action:** Process creation detected.
-- **Command:** `tor-browser-windows-x86_64-portable-14.0.1.exe /S`
-- **File Path:** `C:\Users\employee\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe`
+- **Command:** `tor-browser-windows-x86_64-portable-15.0.10.exe /S`
+- **File Path:** `C:\Users\suditaha\Downloads\tor-browser-windows-x86_64-portable-15.0.10.exe`
 
 ### 3. Process Execution - TOR Browser Launch
 
