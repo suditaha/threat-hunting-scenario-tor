@@ -113,7 +113,7 @@ DeviceNetworkEvents
 RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
+<img width="1269" height="239" alt="Screenshot 2026-05-08 at 1 51 19 PM" src="https://github.com/user-attachments/assets/c72cb4fd-4f8a-4a8f-91ba-31f8b3c65faa" />
 
 ---
 
