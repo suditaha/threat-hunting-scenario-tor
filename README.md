@@ -141,13 +141,13 @@ RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 - **Action:** Process creation of TOR browser-related executables detected.
 - **File Path:** `C:\Users\suditaha\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe`
 
-### 4. Network Connection - TOR Network
+## 4. Network Connection – TOR Network Activity
 
-- **Timestamp:** `2024-11-08T22:18:01.1246358Z`
-- **Event:** A network connection to IP `176.198.159.33` on port `9001` by user "employee" was established using `tor.exe`, confirming TOR browser network activity.
+- **Timestamp:** `2026-04-24T21:49:47.9142061Z`
+- **Event:** A network connection to IP `88.99.2.111` on port `9001` by user `suditaha` on the device `onboarding` was established using `tor.exe`, confirming TOR browser network activity. The connection also accessed the URL `https://www.7fhjgi7lbkmtwipwwgckhs3j.com`.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
-- **File Path:** `c:\users\employee\desktop\tor browser\browser\torbrowser\tor\tor.exe`
+- **File Path:** `C:\Users\suditaha\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe`
 
 ### 5. Additional Network Connections - TOR Browser Activity
 
