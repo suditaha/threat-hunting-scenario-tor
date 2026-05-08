@@ -155,12 +155,12 @@ RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 - **Event:** Additional TOR-related outbound network connections were established, including connections over port `9001` and port `443`, indicating continued TOR browsing activity by user `suditaha` on the device `onboarding`.
 - **Action:** Multiple successful connections detected.
 
-### 6. File Creation - TOR Shopping List
+## 6. File Creation – TOR Shopping List
 
-- **Timestamp:** `2024-11-08T22:27:19.7259964Z`
-- **Event:** The user "employee" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
+- **Timestamp:** `2026-04-24T22:32:39.5057162Z`
+- **Event:** The user `suditaha` created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
 - **Action:** File creation detected.
-- **File Path:** `C:\Users\employee\Desktop\tor-shopping-list.txt`
+- **File Path:** `C:\Users\suditaha\Desktop\tor-shopping-list.txt`
 
 ---
 
