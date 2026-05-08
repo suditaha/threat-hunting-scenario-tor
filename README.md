@@ -149,12 +149,10 @@ RemotePort, RemoteUrl, InitiatingProcessFileName, InitiatingProcessFolderPath
 - **Process:** `tor.exe`
 - **File Path:** `C:\Users\suditaha\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe`
 
-### 5. Additional Network Connections - TOR Browser Activity
+## 5. Additional Network Connections – TOR Browser Activity
 
-- **Timestamps:**
-  - `2024-11-08T22:18:08Z` - Connected to `194.164.169.85` on port `443`.
-  - `2024-11-08T22:18:16Z` - Local connection to `127.0.0.1` on port `9150`.
-- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "employee" through the TOR browser.
+- **Timestamp:** Following `2026-04-24T21:49:47.9142061Z`
+- **Event:** Additional TOR-related outbound network connections were established, including connections over port `9001` and port `443`, indicating continued TOR browsing activity by user `suditaha` on the device `onboarding`.
 - **Action:** Multiple successful connections detected.
 
 ### 6. File Creation - TOR Shopping List
